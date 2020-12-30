@@ -12,8 +12,13 @@ class IdeaGitApplicationTests {
         int b = 30;
     }
 
+
     public static void main(String[] args) {
         int a = 80;
         System.out.println(a);
+    }
+
+    public void test() {
+        System.out.println("===");
     }
 }
