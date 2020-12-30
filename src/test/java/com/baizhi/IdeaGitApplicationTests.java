@@ -20,5 +20,8 @@ class IdeaGitApplicationTests {
 
     public void test() {
         System.out.println("===");
+        System.out.println("===");
+        System.out.println("===");
+        System.out.println("===");
     }
 }
