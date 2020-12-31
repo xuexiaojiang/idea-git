@@ -22,6 +22,7 @@ class IdeaGitApplicationTests {
         System.out.println(a);
         System.out.println(a);
         String str = "eee";
+        int s = 1000;
     }
 
     public void test() {
